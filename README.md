@@ -1,6 +1,6 @@
 ![image](https://github.com/Moulik18/Moulik18/assets/150220034/64987ecd-6474-4972-bab3-920f60d84872)# 💫 About Me:
 
-<img align="right" alt="coding" width="400" src="[https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1fEvC1scvXhOxmtdR85RTb&ust=1699601840383000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMCzn6a0toIDFQAAAAAdAAAAABAI)">
+
 
 🚀 Software Sorcerer | MCA Graduate | PHP Alchemist<br><br>👨‍💻 Conjuring robust and scalable backend enchantments, I wield the power of clean code and optimize performance sans the crutch of frameworks.<br><br>💡 Experienced in shaping database realms and fine-tuning code alchemy for peak efficiency.<br><br>🔧 Spells: PHP Incantations, Database Runes, Code Levitation<br><br>🌐 Join me on this mystical journey through my projects, and together, let's weave magic 
 
