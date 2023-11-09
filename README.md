@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="400" src="https://www.techneos.xyz/assets/img/web_development.gif">
 
 🚀 Software Sorcerer | MCA Graduate | PHP Alchemist<br><br>👨‍💻 Conjuring robust and scalable backend enchantments, I wield the power of clean code and optimize performance sans the crutch of frameworks.<br><br>💡 Experienced in shaping database realms and fine-tuning code alchemy for peak efficiency.<br><br>🔧 Spells: PHP Incantations, Database Runes, Code Levitation<br><br>🌐 Join me on this mystical journey through my projects, and together, let's weave magic 
 
