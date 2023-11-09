@@ -1,6 +1,8 @@
 # 💫 About Me:
 🚀 Software Sorcerer | MCA Graduate | PHP Alchemist<br><br>👨‍💻 Conjuring robust and scalable backend enchantments, I wield the power of clean code and optimize performance sans the crutch of frameworks.<br><br>💡 Experienced in shaping database realms and fine-tuning code alchemy for peak efficiency.<br><br>🔧 Spells: PHP Incantations, Database Runes, Code Levitation<br><br>🌐 Join me on this mystical journey through my projects, and together, let's weave magic 
 
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/brahmagamingyt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/moulik.solanki.94) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_moulik_solanki29/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moulik-solanki/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC3Flehd9k5efJvKaTPSvOAA) 
