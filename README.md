@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://www.techneos.xyz/assets/img/web_development.gif">
+<img align="right" alt="coding" width="400" src="https://www.techneos.xyz/assets/img/web_development.gif](https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
 
 # 💫 About Me:
 🌐 Crafting captivating web experiences, I dance on the frontlines of design and user interaction. HTML, CSS, and JavaScript are my trusted tools, and I thrive on bringing pixels to life.<br><br>💼 As a PHP Backend Developer, I orchestrate the symphony of server-side operations, ensuring seamless communication between the mystical realms of frontend and backend sorcery.<br><br>🛠️ Tools of the Trade: JavaScript Enchantments, HTML Spellcasting, CSS Elegance, PHP Wizardry<br><br>🚧 Currently building enchanting websites that not only dazzle the eyes but also run with the efficiency of a well-tuned spell.<br><br>Embark on this magical journey with me, where every line of code is a verse in the spellbook of digital creation! 🌟
